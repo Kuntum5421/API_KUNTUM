@@ -7,6 +7,6 @@
 ```
 {
     "namabuku": "CARA AGAR RAJIN SHOLAT",
-    "penerbit": "M ARIF",
-    "tahun": 2099
+    "penerbit": "Kuntum",
+    "tahun": 9908
 }
